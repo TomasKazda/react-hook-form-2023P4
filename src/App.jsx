@@ -1,11 +1,11 @@
-import HookDemoRegister from './components/HookDemoRegister'
+import HookDemoController from './components/HookDemoController'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <HookDemoRegister />
+      <HookDemoController />
     </>
   )
 }
